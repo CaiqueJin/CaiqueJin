@@ -4,6 +4,9 @@
 - 📫 caiquejhm@gmail.com
 - ⚡ Amo Tecnologia
 
+  <p align="center">
+<a href="https://github.com/CaiqueJin"><img src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
